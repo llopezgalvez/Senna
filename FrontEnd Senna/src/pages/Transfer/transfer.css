@@ -1,0 +1,56 @@
+
+#forms {
+    height: 55vh;
+    width: 45vh;
+    background-color: rgba(172, 41, 41, 0);
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 52%;
+    border-radius: 10px;
+    backdrop-filter: blur(10px);
+    border: 2px solid rgba(255, 255, 255, 0.075);
+    box-shadow: 0 0 40px rgba(8, 7, 16, 0.6);
+    padding: 50px 35px;
+}
+
+.form p{
+    color: black;
+    margin-top: 5vh;
+}
+
+.favorite-item{
+    margin-bottom: 3vh;
+    background-color: #ffffff17;
+    border-radius: 10px;
+    padding: 10px;
+}
+.form button{
+    margin-top: 5vh;
+    height: 8vh;
+    width: 15vh;
+    margin-left: 8vh;
+    
+    
+}
+
+#trans{
+    color: white;
+    font-weight: bold;
+
+    
+}
+#CF{
+    font-weight: bold;
+
+}
+
+#transA{
+    margin-top: 10px;
+}
+#amon{
+    margin-top: 10px;
+}
+#desc{
+    margin-top: 10px;
+}

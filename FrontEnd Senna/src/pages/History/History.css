@@ -1,0 +1,23 @@
+.history{
+    height: 40vh;
+    width: 90vh;
+    position: absolute;
+    transform: translate(-10%, -50%);
+    top: 35%;
+    left: 48%;
+    border-radius: 10px;
+    padding: 50px 35px;
+}
+
+.history p{
+    color: white;
+    font-size: 30px;
+}
+
+tr{
+    color: white;
+}
+
+td{
+color: rgb(255, 255, 255);  
+}
